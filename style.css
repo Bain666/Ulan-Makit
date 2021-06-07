@@ -245,6 +245,7 @@ table {
 td,th {
     border: 1px solid rgb(0, 0, 0);
     padding: 8px;
+    color: white;
 }
 .texst{
     margin: 0 auto;
@@ -262,4 +263,14 @@ td,th {
 }
 .kakashka h1 {
     text-align: center;
+}
+.Haca_Texnika{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.LIST{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
 }
