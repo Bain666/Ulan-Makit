@@ -295,6 +295,8 @@ th {
     font-weight: 600;
     color: #004fff;
 }
-.new_tekst{
-    width: 599px;
+
+.new_tekst {
+    width: 1200px;
+    margin: 40px auto;
 }
