@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: 'M PLUS 1p', sans-serif;
 }
 
 body {
@@ -21,6 +22,7 @@ body {
 
 .menu a {
     margin: 0 20px;
+    font-weight: 600;
 }
 
 a {
@@ -51,6 +53,7 @@ a {
     font-size: 50px;
     text-shadow: 0px 0px 4px rgb(0 0 0);
     color: rgb(252, 252, 252);
+    font-family: 'M PLUS 1p', sans-serif;
 }
 
 .baneer p {
@@ -63,12 +66,14 @@ a {
     background-color: lime;
     padding: 14px;
     border-radius: 10px;
-    font-size: 14px;
+    font-size: 20px;
     margin-top: 20px;
+    font-family: 'M PLUS 1p', sans-serif;
 }
 
 .baneer-2 {
     height: 280px;
+    background-position-y: -600px;
 }
 
 .hard {
@@ -90,6 +95,7 @@ a {
     max-width: 400px;
     margin-right: 5vw;
     text-align: center;
+    font-size: 18px;
 }
 
 .team {
@@ -237,40 +243,58 @@ a {
     justify-content: center;
     margin-top: 40px;
 }
+
 table {
     border-collapse: collapse;
     margin: 0 auto;
-    background-color: rgba(255 0 212 / 99%) ;
+    background-color: rgba(255 0 212 / 99%);
 }
-td,th {
+
+td,
+th {
     border: 1px solid rgb(0, 0, 0);
     padding: 8px;
     color: white;
 }
-.texst{
+
+.texst {
     margin: 0 auto;
     padding: 80px 20px;
-    width:80vw ;
+    width: 80vw;
 }
-.tobliza{
+
+.tobliza {
     margin-top: 25px;
     margin-bottom: 50px;
-    width:80vw ;
+    width: 80vw;
 }
-.texst h1{
+
+.texst h1 {
     margin-bottom: 35px;
     text-align: center;
 }
+
 .kakashka h1 {
     text-align: center;
 }
-.Haca_Texnika{
+
+.Haca_Texnika {
     display: flex;
     justify-content: center;
     margin-bottom: 10px;
 }
-.LIST{
+
+.LIST {
     display: flex;
     justify-content: center;
     margin-bottom: 10px;
+}
+
+.contact-style-link {
+    font-size: 18px;
+    font-weight: 600;
+    color: #004fff;
+}
+.new_tekst{
+    width: 599px;
 }
