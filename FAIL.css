@@ -23,6 +23,9 @@
     .baneer h1 {
         font-size: 34px;
     }
+    .contakt-as b {
+        font-size: 14px;
+    }
 }
 
 @media screen and (max-width:502px) {
